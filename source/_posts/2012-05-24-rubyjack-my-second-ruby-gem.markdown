@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RubyJack my second Ruby Gem! - Learn With Jeff
-'
 date: 2012-05-24 10:00
 comments: true
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A Quick Look at HTML and Your First Assignment - Learn With Jeff
-'
 date: 2012-02-16 10:00
 comments: true
 categories:

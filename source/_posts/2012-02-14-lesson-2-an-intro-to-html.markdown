@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Lesson 2: An Intro to HTML - Learn With Jeff
-'
+title: Lesson 2 An Intro to HTML - Learn With Jeff
 date: 2012-02-14 10:00
 comments: true
 categories:

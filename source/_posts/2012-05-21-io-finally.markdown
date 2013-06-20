@@ -1,7 +1,6 @@
 ---
 layout: post
 title: I/O...FINALLY! - Learn With Jeff
-'
 date: 2012-05-21 10:00
 comments: true
 categories:

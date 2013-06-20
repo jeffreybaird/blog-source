@@ -1,7 +1,6 @@
 ---
 layout: post
-title: For My First Lesson: My Digital Resume - Learn With Jeff
-'
+title: For My First Lesson My Digital Resume - Learn With Jeff
 date: 2012-02-13 10:00
 comments: true
 categories:
