@@ -56,6 +56,6 @@ Below I've sketched out some projects to help me reach these goals.
 5.  Build an interactive browser game using JavaScript.
 
 
-Readers, what do you think? Is there something I should add, subtract or expand on? Let me know on [twitter](twitter.com/jeffrey_baird)!
+Readers, what do you think? Is there something I should add, subtract or expand on? Let me know on [twitter](http://twitter.com/jeffrey_baird)!
 
 
